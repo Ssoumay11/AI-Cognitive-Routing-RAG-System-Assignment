@@ -22,7 +22,7 @@ def route_post_to_bots(post_content: str, threshold: float = 0.75):
 
     scores.sort(key=lambda x: x[1], reverse=True)
 
-    # ✅ LOG SCORES
+    #  LOG SCORES
     print("\n[Routing Scores]")
     for bot, sim in scores:
         print(f"{bot}: {sim:.4f}")
