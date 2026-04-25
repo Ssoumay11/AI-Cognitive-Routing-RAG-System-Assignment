@@ -172,6 +172,4 @@ execution_logs.txt
 
 ---
 
-## Author
 
-Soumay Verma
