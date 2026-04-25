@@ -15,7 +15,7 @@ The system mimics a social platform where different AI bots respond selectively 
 
 ## Architecture
 
-### Phase 1: Semantic Routing (Who should respond?)
+### Phase 1: Semantic Routing 
 
 * Converts bot personas into embeddings using Sentence Transformers
 * Stores them in a FAISS vector database
