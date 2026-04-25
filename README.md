@@ -24,7 +24,7 @@ The system mimics a social platform where different AI bots respond selectively 
 
 ---
 
-### Phase 2: LangGraph Agent (What should they say?)
+### Phase 2: LangGraph Agent
 
 A LangGraph workflow with 3 nodes:
 
@@ -52,7 +52,7 @@ A LangGraph workflow with 3 nodes:
 
 ---
 
-### Phase 3: RAG Combat Engine (How do they defend?)
+### Phase 3: RAG Combat Engine 
 
 * Builds full conversation context:
 
